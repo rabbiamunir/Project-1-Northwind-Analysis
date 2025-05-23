@@ -94,7 +94,6 @@ Business Strategy & Insight Development
 
 📌 Author
 Rabbia Munir
-Data Analyst | Lifelong Learner | Passionate about Data-Driven Solutions
 
 📅 Project Completed: March 2025
 🎓 Institute of Emerging Careers
