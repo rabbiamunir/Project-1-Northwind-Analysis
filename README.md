@@ -99,6 +99,5 @@ Data Analyst | Lifelong Learner | Passionate about Data-Driven Solutions
 📅 Project Completed: March 2025
 🎓 Institute of Emerging Careers
 
-📷 Project Snapshots
-Insert Power BI dashboards, RFM tables, and ERD visualizations here
+
 
